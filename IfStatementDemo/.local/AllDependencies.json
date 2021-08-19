@@ -5025,9 +5025,9 @@
     "restore": {
       "projectUniqueName": "IfStatementDemo",
       "projectName": "IfStatementDemo",
-      "projectPath": "C:\\Users\\srika\\Documents\\UiPath\\IfStatementDemo\\.local",
+      "projectPath": "C:\\Users\\srika\\Downloads\\UiPath\\UiPath-Training\\IfStatementDemo\\.local",
       "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srika\\Documents\\UiPath\\IfStatementDemo\\.local"
+      "outputPath": "C:\\Users\\srika\\Downloads\\UiPath\\UiPath-Training\\IfStatementDemo\\.local"
     },
     "frameworks": {
       "net461": {
